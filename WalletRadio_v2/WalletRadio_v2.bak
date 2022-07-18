@@ -324,7 +324,7 @@
           (xy -5.08 5.08)
         )
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
     )
     (symbol "MCP6476_1_1"
